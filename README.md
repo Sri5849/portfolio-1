@@ -10,7 +10,7 @@
   <header>
     <div class="container">
       <h1>Palleboina Srinivas</h1>
-      <p>Embedded Systems Student | Aspiring Cloud Engineer | Data Enthusiast</p>
+      <p>It Student | Aspiring Cloud Engineer | Data Enthusiast</p>
       <div class="links">
         <a href="mailto:palleboinasrinivas7@gmail.com">Email</a> | 
         <a href="tel:07989731182">Phone</a> | 
