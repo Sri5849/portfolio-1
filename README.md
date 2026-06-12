@@ -52,8 +52,8 @@
     </div>
     <div class="project">
       <h3>
-        <a href="https://github.com/Sri5849/ai-story-teller" target="_blank">
-          Ai-Story Teller
+        <a href="https://github.com/Sri5849/Multilingual-Story-Generation-and-Speech-System" target="_blank">
+          Multilingual Story Generation and Speech System
         </a>
       </h3>
       <ul>
