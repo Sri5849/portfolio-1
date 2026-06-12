@@ -29,9 +29,10 @@
 
   <section>
     <h2>Skills</h2>
-    <p><b>Programming:</b> Python, C, SQL</p>
-    <p><b>ML Frameworks:</b> PyTorch, TensorFlow, Tkinter</p>
-    <p><b>Data Tools:</b> Pandas, NumPy</p>
+    <p><b>Programming:</b> Python, C, java script</p>
+    <P><b>Frontend:</b> Html,css,java script and react.js</P>
+    <p><b>Tools and libraries:</b> Git,Node.js,Pandas, NumPy</p>
+    <p><b>Database:</b> SQL</p>
   </section>
 
   <section>
