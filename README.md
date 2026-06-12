@@ -49,6 +49,12 @@
         <li>Ensured system reliability, low latency, and IoT security compliance.</li>
       </ul>
     </div>
+    <div class="project">
+      <h4>
+        <a href="https://github.com/Sri5849/ai-story-teller" target="_blank">
+          Ai-Story Teller
+        </a>
+      </h4>
   </section>
 
   <section>
