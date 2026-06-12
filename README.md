@@ -62,6 +62,18 @@
         <li>Integrated Text-to-Speech (TTS) technology for natural audio narration of stories.</li>
         <li>Designed a scalable and user-friendly platform for seamless story generation and speech output.</li>
       </ul>
+      <div class="project">
+        <h3>
+          <a href="https://github.com/Sri5849/vagarious-4" target="_blank">
+            Vagarious Solutions.pvt ltd
+          </a>
+        </h3>
+        <ul>
+          <li>Built responsive website using HTML, CSS, JavaScript  and Node js.</li>
+          <li>Designed navigation menus and interactive UI components.</li>
+          <li>Ensured mobile compatibility and performance optimization.</li>
+        </ul>
+      </div>
   </section>
 
   <section>
