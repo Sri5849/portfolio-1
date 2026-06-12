@@ -50,11 +50,17 @@
       </ul>
     </div>
     <div class="project">
-      <h4>
+      <h3>
         <a href="https://github.com/Sri5849/ai-story-teller" target="_blank">
           Ai-Story Teller
         </a>
-      </h4>
+      </h3>
+      <ul>
+        <li>Developed an AI-based system that generates creative and context-aware stories automatically.</li>
+        <li>Enabled multilingual story creation and translation to support diverse language users.</li>
+        <li>Integrated Text-to-Speech (TTS) technology for natural audio narration of stories.</li>
+        <li>Designed a scalable and user-friendly platform for seamless story generation and speech output.</li>
+      </ul>
   </section>
 
   <section>
